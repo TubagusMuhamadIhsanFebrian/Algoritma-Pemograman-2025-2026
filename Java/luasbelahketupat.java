@@ -1,0 +1,9 @@
+public class luasbelahketupat {
+    public static void main(String[] args) {
+        //5. Luas Belah Ketupat
+        int d1 = 4;
+        int d2 = 8;
+        double LBelahKetupat = 1.0 / 2.0 * d1 * d2;
+        System.out.println(LBelahKetupat);
+    }
+}
